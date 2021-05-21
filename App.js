@@ -8,7 +8,6 @@ const App = () => {
   return(
     <NativeRouter>
       <Main />
-  //<Image source={require('./assets/favicon.png')}/>
   </NativeRouter>
   );
 };
